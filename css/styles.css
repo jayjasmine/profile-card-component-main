@@ -19,7 +19,7 @@ body {
         font-family: var(--font-kumbh);
         font-weight: 400;
         background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
-        background-position: top -80vh left -45vh, bottom -85vh right -30vh;
+        background-position: top -80vh left -45vh, bottom -100vh right -30vh;
         background-repeat: no-repeat;
         text-align: center;
 }
@@ -110,9 +110,7 @@ li span {
 
 @media (max-width: 768px) {
     body {
-        background-position: top -110vh left -100vh, bottom -70vh right -110vh;
-
-
+        background-position: top -110vh left -100vh, bottom -90vh right -100vh;
 
     }
 }
