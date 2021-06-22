@@ -19,7 +19,7 @@ body {
         font-family: var(--font-kumbh);
         font-weight: 400;
         background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
-        background-position: top -80vh left -40vh, bottom -80vh right -25vh;
+        background-position: top -80vh left -45vh, bottom -85vh right -30vh;
         background-repeat: no-repeat;
         text-align: center;
 }
