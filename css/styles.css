@@ -107,9 +107,7 @@ li span {
     font-weight: 400;
     color:hsl(0, 0%, 59%)
 }
-.attribution {
-    color: white;
-}
+
 @media (max-width: 768px) {
     body {
         background-position: top -110vh left -100vh, bottom -70vh right -110vh;
